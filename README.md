@@ -22,13 +22,13 @@ A full-stack web application built with React.js (frontend), Node.js and Express
 
 ```
 project-root/
-├── backend/
+├── server/
 │   ├── server.js
 │   ├── routes/
 │   ├── controllers/
 │   └── models/
 │
-├── frontend/
+├── client/
 │   ├── public/
 │   └── src/
 │       ├── components/
@@ -48,7 +48,7 @@ project-root/
 
 ### Backend Setup
 
-1. Navigate to the backend directory:
+1. Navigate to the server directory:
 
 ```bash
 cd server 
@@ -68,7 +68,7 @@ npm start
 
 ### Frontend Setup
 
-1. Navigate to the frontend directory:
+1. Navigate to the client directory:
 
 ```bash
 cd ../client
