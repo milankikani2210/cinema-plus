@@ -57,7 +57,7 @@ cd server
 2. Install dependencies:
 
 ```bash
-npm install
+npm run dev
 ```
 
 3. Start the server:
