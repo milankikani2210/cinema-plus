@@ -51,7 +51,7 @@ project-root/
 1. Navigate to the backend directory:
 
 ```bash
-cd backend
+cd server 
 ```
 
 2. Install dependencies:
@@ -60,15 +60,7 @@ cd backend
 npm install
 ```
 
-3. Create a `.env` file:
-
-```
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/your-database-name
-JWT_SECRET=your-secret-key
-```
-
-4. Start the server:
+3. Start the server:
 
 ```bash
 npm start
@@ -79,7 +71,7 @@ npm start
 1. Navigate to the frontend directory:
 
 ```bash
-cd ../frontend
+cd ../client
 ```
 
 2. Install dependencies:
